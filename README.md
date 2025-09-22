@@ -14,7 +14,7 @@ It'll be slow. I'll learn by practising and understanding the Bancor V3 codebase
 - No Governance token
 - No migration
 - No liquidity protection
-    - Instant withdrawals
+    - Instant, simplified withdrawals
     - No withdrawal fee
 
 #### Main benefits:
