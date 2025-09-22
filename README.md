@@ -5,7 +5,7 @@ Bancor protocol had a good idea, bad execution. I lack the skill and experience 
 It'll be slow. I'll learn by practising and understanding the Bancor V3 codebase.
 
 ### Main goals and changes:
-- Simplify the code as much as possible, reduce overhead.
+- Simplify the code as much as possible, reduce overhead (compact and secure).
 - Make the protocol sustainable with the least possible long term intervention.
 - Make the protocol as decentralized as possible, non-reliant on admin.
 
