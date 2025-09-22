@@ -9,14 +9,17 @@ It'll be slow. I'll learn by practising and understanding the Bancor V3 codebase
 - Make the protocol sustainable with the least possible long term intervention.
 - Make the protocol as decentralized as possible, non-reliant on admin.
 
-*Changes:*
+#### Changes:
 - No whitelisting
 - No Governance token
 - No migration
 - No liquidity protection
     - Instant withdrawals
     - No withdrawal fee
-Main benefits:
+
+#### Main benefits:
 - Protocol token backed with real token equity
-- Surplus revenue shared with LPs
+- Surplus revenue shared with LPs (IL mitigation, not protection)
+- Stable LP gains
 - Protocol token acts as a stablecoin following the ETH price
+
