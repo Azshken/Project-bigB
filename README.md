@@ -23,3 +23,11 @@ It'll be slow. I'll learn by practising and understanding the Bancor V3 codebase
 - Stable LP gains
 - Protocol token acts as a stablecoin following the ETH price
 
+28/09/2025
+- I'm refactoring the IPoolCollection.sol and PoolCollection.sol
+- I've deleted the withdrawalAmounts as it's tied to the IL protection
+
+TO DO:
+- DELETE renounceLiquidity -> it's for the admin to remove the surplus BNT token in the pool
+- remove isPoolStable -> checks if the BNT in the pool is equal to poolFundingLimit
+- minLiquidityForTrading - is it necessary?
