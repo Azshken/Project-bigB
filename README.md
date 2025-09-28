@@ -25,7 +25,7 @@ It'll be slow. I'll learn by practising and understanding the Bancor V3 codebase
 
 28/09/2025
 - I'm refactoring the IPoolCollection.sol and PoolCollection.sol
-- I've deleted the withdrawalAmounts as it's tied to the IL protection
+- I've changed the withdrawalAmounts as it's tied to the IL protection. Left it in because of UX purposes. It's a view function. 
 
 TO DO:
 - DELETE renounceLiquidity -> it's for the admin to remove the surplus BNT token in the pool
